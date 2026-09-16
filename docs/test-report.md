@@ -1,6 +1,6 @@
 # 검증 기록
 
-- Python 3.11.12 / Windows: pytest 23개 통과, 실패 0, 실행 30.169초 (2026-09-15).
+- Python 3.11.12 / Windows: pytest 23개 통과, 실패 0, 실행 10.20초 (2026-09-16 재검증).
 - Python 3.12.14 / Windows 최초 실행: pytest 23개 통과, statements coverage 84%.
 - React Vitest / Testing Library: 7개 통과.
 - TypeScript 타입 검사: 통과.
